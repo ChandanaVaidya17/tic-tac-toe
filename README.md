@@ -1,4 +1,4 @@
-#tic tac toe game application
+#tic tac toe game ANDROID APPLICATION
 
 Tic tac toe is a two-player game wherein the players will have to choose either X or O in a 3×3 grid.
 The first player can choose any position in the grid and both will get one move at a time, one after the other.
