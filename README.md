@@ -10,7 +10,7 @@ To add this project to android studio.
 - In android studio goto file 
 - Select new > Import from version control 
 - Choose git / github (git option recommanded ) 
-- Paste url to repository 
+- Paste url to repository https://github.com/ChandanaVaidya17/tic-tac-toe.git
 - Click on clone.
 
 
